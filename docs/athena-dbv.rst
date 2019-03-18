@@ -15,7 +15,7 @@ STEP 2 : Download DBVisualizer from below link and install it.
 STEP 3 : Setup Driver Manager: 
 --------
 
-- Go to ‘Tools’ menu and click ‘Driver Manager’ and Add athena JDBC driver which is downloaded in step 1
+- Go to *‘Tools’* menu and click *‘Driver Manager’* and Add athena JDBC driver which is downloaded in step 1
 
 .. image:: images/athena1.png
    :width: 800px
@@ -48,9 +48,9 @@ STEP 4 : Create new database connection and add the parameter as follow.
    :height: 600px
    :alt: alternate text
 
-Click on ‘Apply’
+Click on *‘Apply’*
 
-STEP 5 :  Go to connection tab and click on ‘connect’
+STEP 5 :  Go to connection tab and click on *‘connect’*
 --------
 
 .. image:: images/athena5.png
